@@ -22,8 +22,8 @@ Button : "W S A D"
 
 # Download
 
-> 
+> https://drive.google.com/file/d/1HnvOMbWcYDjKP4DyTOpB9590Bb0RhEoW/view?usp=share_link
 
 # Play
 
->https://play.unity.com/mg/other/webgl-builds-283099
+> https://play.unity.com/mg/other/webgl-builds-283099
